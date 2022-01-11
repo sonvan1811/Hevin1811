@@ -7,8 +7,8 @@ Anh em nào dùng WINDOWS thì hãy tải PERL về máy để chạy nhé.
 
 Download source code and open terminal:
 
- Trỏ đến thư mục chứa tệp 'bffb.pl" 
- (Point to the directory containing the file 'bffb.pl'
+ Trỏ đến thư mục chứa tệp 'Hevin1811" 
+ (Point to the directory containing the file 'Hevin1811'
 
 perl bffb.pl <ID> <wordlist>
  
