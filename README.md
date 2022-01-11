@@ -13,8 +13,9 @@ Download source code and open terminal:
 perl bffb.pl <ID> <wordlist>
  
  [+] Ex: perl bffb.pl 10009876655428 C:\Bffb\wordlist\passwords.txt
-  
-  
+
+============================================================================================
+ 
   *KALI LINUX AND PARROT OS:
   
   open terminal:
