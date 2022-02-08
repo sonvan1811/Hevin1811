@@ -8,7 +8,7 @@ Anh em nào dùng WINDOWS thì hãy tải PERL về máy để chạy nhé.
 Download source code and open terminal: https://github.com/sonvan1811/bruteforceFBwindow.git
 
  Trỏ đến thư mục chứa tệp 'Hevin1811" 
- (Point to the directory containing the file 'Hevin1811'
+ (Point to the directory containing the file 'Hevin1811')
 
 perl bffb.pl <ID> <wordlist>
  
@@ -20,13 +20,13 @@ perl bffb.pl <ID> <wordlist>
   
   open terminal:
   
-  git clone https://github.com/sonvan1811/Hevin1811.git
+  `git clone https://github.com/sonvan1811/Hevin1811.git`
   
-  cd bffb
+  `cd bffb`
   
-  chmod +x bffb.pl
+  `chmod +x bffb.pl`
   
-  perl bffb.pl <ID> <wordlist>
+  `perl bffb.pl`
   
   [+] Ex: perl bffb.pl 10009876655428 /usr/share/wordlists/rockyou.txt
   
