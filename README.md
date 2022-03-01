@@ -22,7 +22,7 @@ perl bffb.pl <ID> <wordlist>
   
   `git clone https://github.com/sonvan1811/Hevin1811.git`
   
-  `cd bffb`
+  `cd Hevin1811`
   
   `chmod +x bffb.pl`
   
